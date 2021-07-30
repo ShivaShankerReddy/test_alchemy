@@ -279,7 +279,7 @@ describe("weather api", () => {
 });
 
 
-// describe("news api", () => {
+describe("news api", () => {
 //     describe("with authentication", () => {
 //         it("it should fail", (done) => {
 //             chai.request(server)
