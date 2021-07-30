@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb-base",
+    // add your environment below the extends key, like this:
+ "env": {
+        "node": true,
+        "browser": true
+    },
+    "plugins": ["import"],
+    "parserOptions": {
+        "ecmaVersion": 6
+    } 
+}
