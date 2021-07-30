@@ -1,0 +1,5 @@
+1) read the array based on specific length
+2) splitted array is checked for integer value
+3) storing the value of integer in object(dict) type
+    eg: {'1': 4, '2': 3,}
+4) once array is completed based on the object data we can sort it.
